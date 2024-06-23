@@ -1,8 +1,4 @@
-# React + Vite
+Pay Eassy UI: Responsive design made with CSS and Reactjs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![scrollshot-2024-06-23T23-20-13-UTC+5 5--30](https://github.com/ujjaval-parmar/UI-CSS-Pay-Eassy/assets/154329143/5fc6266a-1767-4735-a431-29fe29348f5b)
